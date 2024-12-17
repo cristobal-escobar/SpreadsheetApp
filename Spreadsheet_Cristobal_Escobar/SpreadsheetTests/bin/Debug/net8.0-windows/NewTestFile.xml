@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell row="4" column="0">
+    <Text>=C3/11</Text>
+    <Color>0xFFFF0000</Color>
+  </Cell>
+  <Cell row="2" column="2">
+    <Text>=33</Text>
+    <Color>0xFFFF0000</Color>
+  </Cell>
+</Spreadsheet>

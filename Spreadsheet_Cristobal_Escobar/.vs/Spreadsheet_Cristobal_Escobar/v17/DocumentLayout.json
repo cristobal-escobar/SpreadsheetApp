@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheetengine\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheet_cristobal_escobar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|solutionrelative:spreadsheet_cristobal_escobar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheetengine\\expressiontreenodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\expressiontreenodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\spreadsheet_cristobal_escobar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|solutionrelative:spreadsheet_cristobal_escobar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheettests\\spreadsheettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|solutionrelative:spreadsheettests\\spreadsheettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheettests\\expressiontreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|solutionrelative:spreadsheettests\\expressiontreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheetengine\\undoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\undoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheetengine\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheet_cristobal_escobar\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D372FA-1430-4272-B820-E7EF83C4BF53}|Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar.csproj|solutionrelative:spreadsheet_cristobal_escobar\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheettests\\bin\\debug\\net8.0-windows\\testfile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|solutionrelative:spreadsheettests\\bin\\debug\\net8.0-windows\\testfile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheettests\\bin\\debug\\net8.0-windows\\incompletecells.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B41D1E2-0609-4506-90CF-6F4404298B62}|SpreadsheetTests\\SpreadsheetTests.csproj|solutionrelative:spreadsheettests\\bin\\debug\\net8.0-windows\\incompletecells.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|d:\\docs\\fall 2024\\cpt_s 321\\hws\\hw10\\cpts321-cristobal_escobar-hws\\spreadsheet_cristobal_escobar\\spreadsheetengine\\expressiontree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553F323-933F-4B06-9734-8E2991DC587C}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\expressiontree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spreadsheet.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\Spreadsheet.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\Spreadsheet.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\Spreadsheet.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\Spreadsheet.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAALABAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:42:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "RelativeDocumentMoniker": "Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\Form1.cs [Design]",
+              "RelativeToolTip": "Spreadsheet_Cristobal_Escobar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:04:52.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "RelativeDocumentMoniker": "Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "RelativeToolTip": "Spreadsheet_Cristobal_Escobar\\Form1.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAIAwwAMBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:05:09.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpressionTreeNodes.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\ExpressionTreeNodes.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\ExpressionTreeNodes.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\ExpressionTreeNodes.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\ExpressionTreeNodes.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:04:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IncompleteCells.xml",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\bin\\Debug\\net8.0-windows\\IncompleteCells.xml",
+              "RelativeDocumentMoniker": "SpreadsheetTests\\bin\\Debug\\net8.0-windows\\IncompleteCells.xml",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\bin\\Debug\\net8.0-windows\\IncompleteCells.xml",
+              "RelativeToolTip": "SpreadsheetTests\\bin\\Debug\\net8.0-windows\\IncompleteCells.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-22T21:29:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpreadsheetTests.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\SpreadsheetTests.cs",
+              "RelativeDocumentMoniker": "SpreadsheetTests\\SpreadsheetTests.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\SpreadsheetTests.cs",
+              "RelativeToolTip": "SpreadsheetTests\\SpreadsheetTests.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAwB0BAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:14:49.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UndoRedo.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\UndoRedo.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\UndoRedo.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\UndoRedo.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\UndoRedo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T00:19:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpressionTreeTests.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\ExpressionTreeTests.cs",
+              "RelativeDocumentMoniker": "SpreadsheetTests\\ExpressionTreeTests.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\ExpressionTreeTests.cs",
+              "RelativeToolTip": "SpreadsheetTests\\ExpressionTreeTests.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:54:23.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestFile.xml",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\bin\\Debug\\net8.0-windows\\TestFile.xml",
+              "RelativeDocumentMoniker": "SpreadsheetTests\\bin\\Debug\\net8.0-windows\\TestFile.xml",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetTests\\bin\\Debug\\net8.0-windows\\TestFile.xml",
+              "RelativeToolTip": "SpreadsheetTests\\bin\\Debug\\net8.0-windows\\TestFile.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-22T21:30:15.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stylecop.json",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\stylecop.json",
+              "RelativeDocumentMoniker": "Spreadsheet_Cristobal_Escobar\\stylecop.json",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\Spreadsheet_Cristobal_Escobar\\stylecop.json",
+              "RelativeToolTip": "Spreadsheet_Cristobal_Escobar\\stylecop.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T00:28:25.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\Cell.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\Cell.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\Cell.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\Cell.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:55:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpressionTree.cs",
+              "DocumentMoniker": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\ExpressionTree.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\ExpressionTree.cs",
+              "ToolTip": "D:\\DOCS\\Fall 2024\\CPT_S 321\\HWs\\HW10\\cpts321-cristobal_escobar-hws\\Spreadsheet_Cristobal_Escobar\\SpreadsheetEngine\\ExpressionTree.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\ExpressionTree.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAADwv7kAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:38:33.684Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

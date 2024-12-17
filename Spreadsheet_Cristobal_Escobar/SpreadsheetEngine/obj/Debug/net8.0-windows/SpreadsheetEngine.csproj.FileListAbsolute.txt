@@ -1,0 +1,11 @@
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.deps.json
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.dll
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.pdb
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.AssemblyInfoInputs.cache
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.AssemblyInfo.cs
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.dll
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\refint\SpreadsheetEngine.dll
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.pdb
+D:\DOCS\Fall 2024\CPT_S 321\HWs\HW10\cpts321-cristobal_escobar-hws\Spreadsheet_Cristobal_Escobar\SpreadsheetEngine\obj\Debug\net8.0-windows\ref\SpreadsheetEngine.dll

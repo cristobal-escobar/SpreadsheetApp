@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Spreadsheet>
+	<Cell row="2" column="2">
+		<Color>0xFFFF0000</Color>
+	</Cell>
+	<Cell row="5" column="0">
+		<another_unused_tag>data</another_unused_tag>
+		<Text>=11</Text>
+	</Cell>
+</Spreadsheet>
+

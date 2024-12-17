@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Spreadsheet>
+	<Cell row="2" column="2">
+		<Color>0xFFFF0000</Color>
+		<Text>=55</Text>
+	</Cell>
+	<Cell row="5" column="0">
+		<another_unused_tag>data</another_unused_tag>
+		<Text>=C3/11</Text>
+		<Color>0xFF00FF00</Color>
+	</Cell>
+	<Cell row="6" column="1">
+		<Color>0xFF0000FF</Color>
+		<some_tag_you_didnt_write>blah</some_tag_you_didnt_write>
+		<Text>=C3-A4</Text>
+	</Cell>
+	<Cell unusedattr="abc" name="B1" row="7" column="3">
+		<Text>=B5/5</Text>
+		<Color>0xFFFF0000</Color>
+	</Cell>
+</Spreadsheet>
+
